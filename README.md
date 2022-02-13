@@ -1,4 +1,4 @@
-# SchadText
+# SchadTest
 Proyecto Schad
 
 Utilice la misma base de datos proporcionada sin ningun cambio, a pesar de haber cierta incoherencia entre Invoice (1=>*) InvoiceDetails(Customerid) el cual debio ser (InvoiceId)
